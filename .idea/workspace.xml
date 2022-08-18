@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2291b277-aaef-4613-ac61-b4a5c2b6284e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule2/data/PhoneBook.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule2/src/bai1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule2/src/bai1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule2/src/bai1/Motorbike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule2/src/bai1/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule2/src/bai1/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule2/src/bai2/model/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule2/src/bai2/sevices/IPhoneBookServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule2/src/bai2/sevices/PhoneBookServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule2/src/bai2/utils/AppUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule2/src/bai2/utils/CSVUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule2/src/bai2/utils/InputOption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule2/src/bai2/utils/Validate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule2/src/bai2/view/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule2/src/bai2/view/PhoneBookView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhmodule2/thuchanhmodule2.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/thuchanhmodule2" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DVZaZMuZ2iirMs3XBj9RTfPmJ9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/thuchanhmodule2/thuchanhmodule2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2291b277-aaef-4613-ac61-b4a5c2b6284e" name="Changes" comment="" />
+      <created>1660786277080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660786277080</updated>
+      <workItem from="1660786278308" duration="53000" />
+      <workItem from="1660805361468" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
